@@ -1,0 +1,87 @@
+.nav1{
+    margin-right: 5%;
+}
+
+.navIndex{
+    background-color: blueviolet;
+}
+
+.color{
+    color: white;
+}
+
+.cadastro{
+    height: 100%;
+    background-image: url(../img/fundo.jpg);    
+}
+
+.tela_geral {
+
+}
+
+.quadrado-cad-grande{
+    position: absolute;
+    /*border: solid 2px #E34AF0;*/
+    box-shadow: -2px -3px 5px grey;
+    border-radius: 5%;
+    width: 450px;
+    height: 600px;
+    margin-top: 75px;
+    margin-left: 55%;
+    background-color: white;
+}
+
+.quadrado-cad-peq{
+    position: absolute;
+    /*border: solid 2px #E34AF0;*/
+    box-shadow: -2px 3px 5px grey;
+    border-radius: 5%;
+    width: 480px;
+    height: 300px;
+    margin-top: 225px;
+    margin-left: 25%;
+    background-color: white;
+}
+
+.quadrado-cad-peq img{
+    width: 350px;
+    height: 280px;
+    margin-left: 60px;
+}
+
+.btn-cadastro{
+    background-color: #F931E8;
+    border-color: #F931E8;
+    height: 50px;
+    width: 400px;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.btn-cadastro:hover{
+    background-color: #D103C1;
+    border-color: #D103C1;
+}
+
+.btn-cadastro-google{
+    background-color: white;
+    border-color: grey;
+    color: grey;
+    height: 50px;
+    width: 400px;
+    margin-top: 450px;
+    margin-left: 25px;
+}
+
+.btn-cadastro-google:hover{
+    background-color: #FAF7F9;
+    border-color: grey;
+    color: grey;
+}
+
+.btn-cadastro-google img{
+    width: 35px;
+    height: 35px;
+    margin-right: 60px;
+    margin-left: -80px;
+}
